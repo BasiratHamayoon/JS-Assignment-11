@@ -13,3 +13,8 @@
 //     }
 // }
 // console.log(`The Smallest Number in this Array is: ${smallerNum}`)
+
+//Problem no 02
+var celcius = prompt("Enter Temperature in Celcius?")
+var fahrenHeit = (celcius * 9 / 5) + 32;
+console.log(`${celcius}C is equal to ${fahrenHeit}F` )
